@@ -1,0 +1,1 @@
+((A #T) (B #F) (C #T) (D #F) (E #T) (F #F) (G #T) (H #T) (I #F) (J #F))
